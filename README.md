@@ -31,6 +31,9 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ## 📂 GitHub Repository
 👉 https://github.com/soni-frontend/portfolio  
 
+## 📂 Live Potfolio link
+👉 https://soni-frontend.github.io/portfolio/
+
 ---
 
 ## 🎯 Future Improvements
