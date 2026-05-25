@@ -36,9 +36,10 @@
     <section id="skills">
         <h2>My Skills</h2>
         <ul>
-            <li>HTML</li>
-            <li>CSS</li>
+            <li>HTML5</li>
+            <li>CSS3</li>
             <li>JavaScript</li>
+            <li>React</li>
             <li>Responsive Design</li>
             <li>Flexbox & Grid</li>
         </ul>
@@ -47,26 +48,77 @@
     <!-- Projects Section -->
     <section id="projects">
         <h2>My Projects</h2>
-        <div class="project">
-            <h3>Portfolio Website</h3>
-            <p>Responsive portfolio built with HTML, CSS & JS.</p>
-            <!-- Image placeholder -->
-            <img src="https://via.placeholder.com/200" alt="Project 1">
-            <!-- Link placeholder -->
-            <a href="#" target="_blank">View Project</a>
+        <!-- Projects Section Container -->
+<section id="projects" class="projects-section">
+    <h2 class="section-title">My Projects</h2>
+    
+    <div class="projects-grid">
+        
+        <!-- PROJECT 1: AI Spend Audit (React) -->
+        <div class="project-card">
+            <div class="project-info">
+                <h3>AI Spend Audit Dashboard</h3>
+                <p>A modern and advanced finance-tracking dashboard built using React.js to help users monitor and analyze their expenses. Features a clean component-based architecture, highly responsive layout, and efficient state management.</p>
+                <div class="tech-tags">
+                    <span>React.js</span>
+                    <span>JavaScript (ES6)</span>
+                    <span>Tailwind CSS</span>
+                </div>
+            </div>
+            <div class="project-links">
+                <a href="https://github.com/soni-frontend/react-project" target="_blank" class="btn code-btn">
+                    <i class="fab fa-github"></i> View Code
+                </a>
+                <a href="https://ai-spend-audit-kappa-seven.vercel.app/" target="_blank" class="btn live-btn">
+                    <i class="fas fa-external-link-alt"></i> Live Demo
+                </a>
+            </div>
         </div>
-        <div class="project">
-            <h3>Todo App</h3>
-            <p>Interactive Todo App using JS.</p>
-            <img src="https://via.placeholder.com/200" alt="Project 2">
-            <a href="#" target="_blank">View Project</a>
+
+        <!-- PROJECT 2: To-Do List App -->
+        <div class="project-card">
+            <div class="project-info">
+                <h3>Responsive To-Do List App</h3>
+                <p>A sleek, lightweight task management application designed to organize daily chores. It allows users to add, mark complete, and delete tasks dynamically using interactive DOM manipulation and smooth UI styling.</p>
+                <div class="tech-tags">
+                    <span>HTML5</span>
+                    <span>CSS3</span>
+                    <span>JavaScript</span>
+                </div>
+            </div>
+            <div class="project-links">
+                <a href="https://github.com/soni-frontend/To-Do-List-App" target="_blank" class="btn code-btn">
+                    <i class="fab fa-github"></i> View Code
+                </a>
+                <a href="https://soni-frontend.github.io/To-Do-List-App/" target="_blank" class="btn live-btn">
+                    <i class="fas fa-external-link-alt"></i> Live Demo
+                </a>
+            </div>
         </div>
-        <div class="project">
-            <h3>Calculator App</h3>
-            <p>Simple Calculator built with JS.</p>
-            <img src="https://via.placeholder.com/200" alt="Project 3">
-            <a href="#" target="_blank">View Project</a>
+
+        <!-- PROJECT 3: Calculator App -->
+        <div class="project-card">
+            <div class="project-info">
+                <h3>Interactive Calculator App</h3>
+                <p>A modern web-based calculator designed using CSS Grid Layout and dynamic JavaScript logic. It efficiently handles basic arithmetic computations with accuracy and features a clean, professional dark user interface.</p>
+                <div class="tech-tags">
+                    <span>HTML5</span>
+                    <span>CSS Grid</span>
+                    <span>JavaScript</span>
+                </div>
+            </div>
+            <div class="project-links">
+                <a href="https://github.com/soni-frontend/Calculator---App" target="_blank" class="btn code-btn">
+                    <i class="fab fa-github"></i> View Code
+                </a>
+                <a href="https://soni-frontend.github.io/Calculator---App/" target="_blank" class="btn live-btn">
+                    <i class="fas fa-external-link-alt"></i> Live Demo
+                </a>
+            </div>
         </div>
+
+    </div>
+</section>
     </section>
 
     <!-- Contact Section -->
