@@ -102,44 +102,6 @@ h2{
     transform: translateY(-5px);
 }
 
-/* Projects */
-#projects{
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-}
-
-.project{
-    background: #f3f6f9;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
-    text-align: center;
-    width: 250px;
-    transition: 0.3s;
-}
-
-.project img{
-    width: 100%;
-    border-radius: 10px;
-    margin-bottom: 10px;
-}
-
-.project a{
-    display: inline-block;
-    margin-top: 10px;
-    text-decoration: none;
-    background: #2575fc;
-    color: #fff;
-    padding: 8px 15px;
-    border-radius: 8px;
-    transition: 0.3s;
-}
-
-.project a:hover{
-    background: #6a11cb;
-}
 
 /* Form */
 form{
@@ -203,4 +165,145 @@ footer{
         flex-direction: column;
         gap: 10px;
     }
+}
+/* Projects Section General Styling */
+.projects-section {
+    padding: 60px 20px;
+    background-color: #f8f9fa; /* Sleek light background for the whole section */
+}
+
+.section-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 40px;
+    color: #212529;
+    font-weight: 700;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Base Project Card Design */
+.project-card {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Hover Animation: Card lifts up smoothly */
+.project-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.1);
+}
+
+/* Project Titles */
+.project-card h3 {
+    font-size: 1.4rem;
+    margin-bottom: 12px;
+    color: #2d3748;
+}
+
+/* Project Descriptions */
+.project-card p {
+    font-size: 0.95rem;
+    color: #4a5568;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+/* --- DYNAMIC COLORS FOR EACH CARD --- */
+
+/* Card 1: AI Spend Audit (Modern Tech - Cyan/Blue Theme) */
+.project-card:nth-child(1) {
+    border-top: 5px solid #00d2ff;
+    background: linear-gradient(to bottom, #f0faff, #ffffff 30%);
+}
+.project-card:nth-child(1) .tech-tags span {
+    background-color: #e6f9ff;
+    color: #007a99;
+}
+
+/* Card 2: To-Do List App (Clean - Emerald Green Theme) */
+.project-card:nth-child(2) {
+    border-top: 5px solid #059669;
+    background: linear-gradient(to bottom, #f0fdf4, #ffffff 30%);
+}
+.project-card:nth-child(2) .tech-tags span {
+    background-color: #dcfce7;
+    color: #15803d;
+}
+
+/* Card 3: Calculator App (Sleek - Indigo/Purple Theme) */
+.project-card:nth-child(3) {
+    border-top: 5px solid #6366f1;
+    background: linear-gradient(to bottom, #eef2ff, #ffffff 30%);
+}
+.project-card:nth-child(3) .tech-tags span {
+    background-color: #e0e7ff;
+    color: #4338ca;
+}
+
+/* Tech Stack Tags Layout */
+.tech-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.tech-tags span {
+    padding: 4px 10px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    border-radius: 6px;
+    text-transform: uppercase;
+}
+
+/* Buttons Container */
+.project-links {
+    display: flex;
+    gap: 15px;
+    margin-top: auto;
+}
+
+/* Professional Buttons Styling */
+.btn {
+    flex: 1;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.2s ease;
+}
+
+.code-btn {
+    background-color: #1a202c;
+    color: #ffffff;
+}
+
+.code-btn:hover {
+    background-color: #2d3748;
+}
+
+.live-btn {
+    background-color: #3182ce;
+    color: #ffffff;
+}
+
+.live-btn:hover {
+    background-color: #2b6cb0;
 }
