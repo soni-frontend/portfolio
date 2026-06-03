@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 Hi, I am **Soni Kumari** 👩‍💻  
-I am a BCA-Final year student and an aspiring **Software Developer**.  
+I am a BCA Final-year student and an aspiring **Software Developer**.  
 I enjoy building responsive and user-friendly web applications.
 
 ---
