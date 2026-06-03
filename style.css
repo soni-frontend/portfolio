@@ -232,7 +232,7 @@ footer{
 }
 .project-card:nth-child(1) .tech-tags span {
     background-color: #e6f9ff;
-    color: #007a99;
+    color: #4338ca;
 }
 
 /* Card 2: To-Do List App (Clean - Emerald Green Theme) */
@@ -241,8 +241,8 @@ footer{
     background: linear-gradient(to bottom, #f0fdf4, #ffffff 30%);
 }
 .project-card:nth-child(2) .tech-tags span {
-    background-color: #dcfce7;
-    color: #15803d;
+    background-color: #e6f9ff;
+    color: #4338ca;
 }
 
 /* Card 3: Calculator App (Sleek - Indigo/Purple Theme) */
@@ -251,7 +251,7 @@ footer{
     background: linear-gradient(to bottom, #eef2ff, #ffffff 30%);
 }
 .project-card:nth-child(3) .tech-tags span {
-    background-color: #e0e7ff;
+    background-color: #e6f9ff;
     color: #4338ca;
 }
 
