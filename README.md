@@ -2,7 +2,7 @@
 
 ## 📌 About Me
 Hi, I am **Soni Kumari** 👩‍💻  
-I am a BCA student and an aspiring **Frontend Developer**.  
+I am a BCA-Final year student and an aspiring **Software Developer**.  
 I enjoy building responsive and user-friendly web applications.
 
 ---
@@ -13,10 +13,10 @@ This is my personal portfolio website where I showcase my skills, projects, and 
 ---
 
 ## 🛠️ Technologies Used
-- HTML  
-- CSS  
+- HTML5  
+- CSS3  
 - JavaScript  
-- React.js (Learning)
+- React.js
 
 ---
 
