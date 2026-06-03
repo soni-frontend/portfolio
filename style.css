@@ -4,7 +4,7 @@ body{
     margin: 0;
     padding: 0;
     background: #f0f4f8;
-    color: #333;
+    color: #1d1f1e;
 }
 
 /* Navbar */
@@ -12,7 +12,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #222;
+    background: #93a26e;
     padding: 15px 30px;
     position: sticky;
     top: 0;
@@ -20,7 +20,7 @@ nav{
 }
 
 .logo{
-    color: #fff;
+    color: #1d1c1c;
     font-weight: bold;
     font-size: 22px;
 }
@@ -32,7 +32,7 @@ nav ul{
 }
 
 nav ul li a{
-    color: #fff;
+    color: #151716;
     text-decoration: none;
     transition: 0.3s;
 }
@@ -43,8 +43,8 @@ nav ul li a:hover{
 
 /* Hero Section */
 #hero{
-    background: linear-gradient(135deg,#6a11cb,#2575fc);
-    color: #fff;
+    background: linear-gradient(135deg,#7708ee,#0a0c0d);
+    color: #16e596;
     text-align: center;
     padding: 100px 20px;
 }
@@ -67,7 +67,7 @@ section{
     width: 80%;
     margin: 50px auto;
     padding: 30px;
-    background: #fff;
+    background: #b3eff6;
     border-radius: 15px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
 }
@@ -78,7 +78,7 @@ h2{
     margin-bottom: 25px;
     font-size: 30px;
     letter-spacing: 1px;
-    color: #222;
+    color: #121212;
 }
 
 /* Skills Section */
@@ -91,7 +91,7 @@ h2{
 }
 
 #skills ul li{
-    background: #f3f6f9;
+    background: #85b4e3;
     padding: 15px 25px;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0,0,0,0.05);
@@ -115,7 +115,7 @@ form input, form textarea{
     padding: 12px;
     margin: 10px 0;
     border-radius: 10px;
-    border: 1px solid #ccc;
+    border: 1px solid #b73867;
     font-size: 16px;
 }
 
@@ -169,7 +169,7 @@ footer{
 /* Projects Section General Styling */
 .projects-section {
     padding: 60px 20px;
-    background-color: #f8f9fa; /* Sleek light background for the whole section */
+    background-color: #8ee5ef; /* Sleek light background for the whole section */
 }
 
 .section-title {
@@ -291,8 +291,8 @@ footer{
 }
 
 .code-btn {
-    background-color: #1a202c;
-    color: #ffffff;
+    background-color: #8cf3be;
+    color: #884798;
 }
 
 .code-btn:hover {
