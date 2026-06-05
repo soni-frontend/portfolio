@@ -234,23 +234,31 @@ footer{
     background-color: #e6f9ff;
     color: #4338ca;
 }
-
-/* Card 2: To-Do List App (Clean - Emerald Green Theme) */
-.project-card:nth-child(2) {
-    border-top: 5px solid #059669;
+/* Card 2: My digital card (sleek orange/coral theme) */
+.project-card:nth-child(2){
+    border-top: 5px solid #ff6b6b;
     background: linear-gradient(to bottom, #f0fdf4, #ffffff 30%);
 }
 .project-card:nth-child(2) .tech-tags span {
     background-color: #e6f9ff;
     color: #4338ca;
 }
-
-/* Card 3: Calculator App (Sleek - Indigo/Purple Theme) */
+/* Card 3: To-Do List App (Clean - Emerald Green Theme) */
 .project-card:nth-child(3) {
+    border-top: 5px solid #059669;
+    background: linear-gradient(to bottom, #f0fdf4, #ffffff 30%);
+}
+.project-card:nth-child(3) .tech-tags span {
+    background-color: #e6f9ff;
+    color: #4338ca;
+}
+
+/* Card 4: Calculator App (Sleek - Indigo/Purple Theme) */
+.project-card:nth-child(4) {
     border-top: 5px solid #6366f1;
     background: linear-gradient(to bottom, #eef2ff, #ffffff 30%);
 }
-.project-card:nth-child(3) .tech-tags span {
+.project-card:nth-child(4) .tech-tags span {
     background-color: #e6f9ff;
     color: #4338ca;
 }
