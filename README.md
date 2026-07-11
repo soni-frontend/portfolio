@@ -1,52 +1,63 @@
-# 🌐 Portfolio Website
+🌐 Portfolio Website
 
-## 📌 About Me
-Hi, I am **Soni Kumari** 👩‍💻  
-I am a BCA Final-year student and an aspiring **Software Developer**.  
-I enjoy building responsive and user-friendly web applications.
+📌 About Me
 
----
+Hi, I'm Soni Kumari 👩‍💻
 
-## 🚀 Project Description
-This is my personal portfolio website where I showcase my skills, projects, and basic information about myself.
+I recently completed my Bachelor of Computer Applications (BCA) (result awaited) and am an aspiring Software Developer with a strong interest in Java, Web Development, and Frontend Development. I enjoy building responsive, user-friendly, and interactive web applications while continuously improving my problem-solving and programming skills.
 
 ---
 
-## 🛠️ Technologies Used
-- HTML5  
-- CSS3  
-- JavaScript  
+🚀 Project Description
+
+This is my personal portfolio website where I showcase my technical skills, projects, certifications, and contact information. It serves as a central place to highlight my work and learning journey.
+
+---
+
+🛠️ Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 - React.js
 
 ---
 
-## ✨ Features
-- Responsive Design 📱  
-- Clean and Simple UI 🎨  
-- Projects Showcase 📂  
-- Easy Navigation 🔗  
+✨ Features
+
+- 📱 Fully Responsive Design
+- 🎨 Clean and Modern UI
+- 📂 Projects Showcase
+- 🔗 Easy Navigation
+- 📞 Contact Information
 
 ---
 
-## 📂 GitHub Repository
-👉 https://github.com/soni-frontend/portfolio  
+🌐 Live Demo
 
-## 📂 Live Potfolio link
 👉 https://soni-frontend.github.io/portfolio/
 
----
+📂 GitHub Repository
 
-## 🎯 Future Improvements
-- Add more projects  
-- Improve UI/UX  
-- Add React-based features  
+👉 https://github.com/soni-frontend/portfolio
 
 ---
 
-## 🙋‍♀️ Author
-**Soni Kumari**  
+🎯 Future Improvements
+
+- Add more real-world projects
+- Improve UI/UX
+- Enhance accessibility and performance
+- Build additional React-based features
 
 ---
 
-## ⭐ Support
-If you like this project, please ⭐ the repository.
+🙋‍♀️ Author
+
+Soni Kumari
+
+---
+
+⭐ Support
+
+If you find this project useful, please consider giving it a ⭐ on GitHub.
