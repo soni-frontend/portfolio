@@ -1,26 +1,3 @@
-<<<<<<< Updated upstream
-🌐 Portfolio Website
-
-📌 About Me
-
-Hi, I'm Soni Kumari 👩‍💻
-
-I recently completed my Bachelor of Computer Applications (BCA) (result awaited) and am an aspiring Software Developer with a strong interest in Java, Web Development, and Frontend Development. I enjoy building responsive, user-friendly, and interactive web applications while continuously improving my problem-solving and programming skills.
-
----
-
-🚀 Project Description
-
-This is my personal portfolio website where I showcase my technical skills, projects, certifications, and contact information. It serves as a central place to highlight my work and learning journey.
-
----
-
-🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-=======
 # 🌐 Soni Kumari - Portfolio Website
 
 ## 📌 About Me
@@ -46,7 +23,6 @@ The portfolio is designed to provide a simple and professional overview of my te
 - HTML5
 - CSS3
 - JavaScript
->>>>>>> Stashed changes
 - React.js
 - Tailwind CSS
 - Java
@@ -55,21 +31,6 @@ The portfolio is designed to provide a simple and professional overview of my te
 
 ---
 
-<<<<<<< Updated upstream
-✨ Features
-
-- 📱 Fully Responsive Design
-- 🎨 Clean and Modern UI
-- 📂 Projects Showcase
-- 🔗 Easy Navigation
-- 📞 Contact Information
-
----
-
-🌐 Live Demo
-
-👉 https://soni-frontend.github.io/portfolio/
-=======
 ## ✨ Features
 
 - 📱 Responsive Design
@@ -133,34 +94,9 @@ A responsive calculator application built using CSS Grid and JavaScript to perfo
 **Technologies:** HTML5, CSS Grid, JavaScript
 
 [Live Demo](https://soni-frontend.github.io/Calculator---App/) | [View Code](https://github.com/soni-frontend/Calculator---App)
->>>>>>> Stashed changes
-
-📂 GitHub Repository
-
-<<<<<<< Updated upstream
-👉 https://github.com/soni-frontend/portfolio
 
 ---
 
-🎯 Future Improvements
-
-- Add more real-world projects
-- Improve UI/UX
-- Enhance accessibility and performance
-- Build additional React-based features
-
----
-
-🙋‍♀️ Author
-
-Soni Kumari
-
----
-
-⭐ Support
-
-If you find this project useful, please consider giving it a ⭐ on GitHub.
-=======
 ## 🎯 Future Improvements
 
 - Add more real-world projects
@@ -184,4 +120,3 @@ If you find this project useful, please consider giving it a ⭐ on GitHub.
 ## ⭐ Support
 
 If you like this portfolio, please ⭐ the repository.
->>>>>>> Stashed changes
